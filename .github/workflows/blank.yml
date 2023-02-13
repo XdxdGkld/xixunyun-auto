@@ -36,3 +36,4 @@ jobs:
           node app.js
 
 test
+test2
